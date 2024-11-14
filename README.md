@@ -14,12 +14,12 @@
 
 * The `Logistic Regression Model` was used to create and train the machine learning model. The following stages were performed:
 
-- Imorted dataset into Panda DataFrames
-- Create label set (y) from 'loan_status' and features (X) from the remaining columns.
-- Split the data into training and testing datasets using train_test_split()
-- Create logistic regression model and fit the original data
-- Create predictions using the model predict method
-- Evaluate the model's performance by creating a confusion matrix and classification report
+    - Imorted dataset into Panda DataFrames
+    - Create label set (y) from 'loan_status' and features (X) from the remaining columns.
+    - Split the data into training and testing datasets using train_test_split()
+    - Create logistic regression model and fit the original data
+    - Create predictions using the model predict method
+    - Evaluate the model's performance by creating a confusion matrix and classification report
 
 ## Results
 
